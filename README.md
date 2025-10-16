@@ -50,10 +50,3 @@ The project combines theoretical modeling, numerical computation, and visualizat
 
 ---
 
-## 🔢 How to Run the Project
-
-### **1️⃣ Voice Calls Only – Erlang-B & CTMC**
-Run in MATLAB:
-```matlab
-part1_Q1
-part1_Q2
